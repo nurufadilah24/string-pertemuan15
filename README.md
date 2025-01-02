@@ -1,4 +1,8 @@
+## Nama:Nurul fadilah
+## nim :312410689
+## kls :TI.24.A3
 # string-pertemuan15
+
 ## hasil imput 1
 
 ```python
